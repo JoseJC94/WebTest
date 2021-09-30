@@ -99,4 +99,4 @@ You can use an inline function or call a function you defined in **logic.js**
 
 ### 7-  AJAX (25 points)
 - Using **axios.js** (provided in framework folder), **AJAX** or any other similar library/method fetch
-data from <https://jsonplaceholder.typicode.com/todos/1> and show it using console.log().
+data from <https://jsonplaceholder.typicode.com/todos/1> and show it using **console.log()**.
