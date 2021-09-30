@@ -90,8 +90,8 @@ You can use an inline function or call a function you defined in **logic.js**
 ## Extra items (optional)
 
 ### 5- Styling (25 points)
-- Give style to the **HTML visual elements** created previously using Bootstrap (provided in framework folder)
-  or your own CSS file (place it in assets/css).
+- Give style to the **HTML visual elements** created previously using **Bootstrap** (provided in framework folder)
+  or **your own** CSS file (place it in assets/css).
 
 ### 6- Local Storage (25 points)
 - Store the **associative array** created in **item #1** in the browser **local storage**, load it back and show it using **console.log()**.
