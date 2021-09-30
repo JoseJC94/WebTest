@@ -40,7 +40,7 @@ Once you're finished with setup you have **180 minutes** to complete the followi
 
 ## Exercises
 
-### 1- Javascript Warmup (20%)
+### 1- Javascript (20%)
 
 - Create a simple **array** named **array1** with these 3 colors:
 
@@ -75,7 +75,7 @@ console.log(array2)
 
 You can use an inline function or call a function you defined in **logic.js**
 
-### 3- MySQL Data retrieval (30%)
+### 3- MySQL/PHP Data retrieval (30%)
  Execute the **MySQL** code provided on **scripts/query.sql** on your own environment and do the following:
 - Create a query to find out which student is the **oldest**.
 - Create a query to find which students are from Universidad **"UCR"**.
