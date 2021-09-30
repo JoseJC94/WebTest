@@ -23,7 +23,7 @@ Efficiency | Your code doesn't heavily compromise performance |10%
 **1-** Download the project files into your
 htdocs/root folder.
 
-**2-** Open (localhost/rootFolder)/WebTest/index/index.php in your browser
+**2-** Open (localhost/rootFolder)/WebTest/index.php in your browser
 
 **3-** You should see the following if not inform as soon as possible of the issue.
 
