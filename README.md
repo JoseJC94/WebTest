@@ -1,7 +1,7 @@
-#October 4th, 2021 WebTest 1.0
-######created by Jose Jiménez
+# October 4th, 2021 WebTest 1.0
+###### created by Jose Jiménez
 
-##General instructions:
+## General instructions:
 
 
 The following test describes a series of small
@@ -19,7 +19,7 @@ Readability | Your code is easily readable | 20%
 Simplicity | You provide simple solutions | 20%
 Efficiency | Your code doesn't heavily compromise performance |10% 
 
-###Project setup instructions
+### Project setup instructions
 1- Download the project files into your
 htdocs/root folder.
 
@@ -38,9 +38,9 @@ htdocs/root folder.
 Once you're finished with setup you have 180 minutes to complete the following exercises: 
 
 
-##Exercises
+## Exercises
 
-###1- Javascript Warmup (20%)
+### 1- Javascript Warmup (20%)
 
 - Create a simple array named array1 with these 3 colors:
 
@@ -65,35 +65,35 @@ these 3 students:
   
 
 
-###2- HTML Structure (20%)
+### 2- HTML Structure (20%)
 
 - Create a text input 
 - Create a button below that input
 - Create a click event in the previous button that changes its text to the following:
 "Excelente!". (you can use an inline function or call a function you defined in logic.js)
 
-###3- MySQL Data retrieval (30%)
+### 3- MySQL Data retrieval (30%)
  Execute the MySQL code provided on scripts folder/query.sql on your own environment and do the following:
 - Create a query to find out which student is the oldest.
 - Create a query to find which students are from Universidad "UCR".
 - Create an HTML table in section.php and populate it with the second query result.
-###4- JQuery (30%)
+### 4- JQuery (30%)
 
 - Create a JQuery id selector and select any of your previously created HTML elements (you can create one if you don't have any).
 - Alter the value (or any other visible property) of the previously selected element using JQuery.
 - Select the row cells of the table in the previous exercise (you can use a manually created table if you didn't generate the previous one) using a selector or a JQuery method.
 - Show your results with console.log().
 
-##Extra items (optional)
+## Extra items (optional)
 
-###5- Styling (25 points)
+### 5- Styling (25 points)
 - Give style to the HTML visual elements created previously using Bootstrap (provided in framework folder)
   or your own CSS file (place it in assets/css).
 
-###6- Local Storage (25 points)
+### 6- Local Storage (25 points)
 - Store the associative array created in item #1 in the browser local storage, load it back and show it using console.log().
 
 
-###7-  AJAX (25 points)
+### 7-  AJAX (25 points)
 - Using axios.js (provided in framework folder), AJAX or any other similar library/method fetch
 data from 'https://jsonplaceholder.typicode.com/todos/1' and show it using console.log().
