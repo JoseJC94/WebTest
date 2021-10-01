@@ -80,7 +80,7 @@ You can use an inline function or call a function you defined in **logic.js**
 - Create a query to find out which student is the **oldest**.
 - Create a query to find which students are from Universidad **"UCR"**.
 - Create an **HTML table** in section.php and **populate** it with the second query result.
-### 4- JQuery (30% : 5,5,10)
+### 4- JQuery (30% : 5,10,15)
 
 - Create a **JQuery id selector** and select any of your previously created HTML elements (you can create one if you don't have any).
 - Alter the value (or any other **visible property**) of the previously selected element using JQuery.
