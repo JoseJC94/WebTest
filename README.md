@@ -40,7 +40,7 @@ Once you're finished with setup you have **180 minutes** to complete the followi
 
 ## Exercises
 
-### 1- Javascript (20%)
+### 1- Javascript (20% : 10,10)
 
 - Create a simple **array** named **array1** with these 3 colors:
 
@@ -66,7 +66,7 @@ console.log(array2)
 </code>
 
 
-### 2- HTML Structure (20%)
+### 2- HTML Structure (20% : 5,5,10)
 
 - Create a text **input**
 - Create a **button** below that input
@@ -75,12 +75,12 @@ console.log(array2)
 
 You can use an inline function or call a function you defined in **logic.js**
 
-### 3- MySQL/PHP Data retrieval (30%)
+### 3- MySQL/PHP Data retrieval (30% : 5,5,20)
  Execute the **MySQL** code provided on **scripts/query.sql** on your own environment and do the following:
 - Create a query to find out which student is the **oldest**.
 - Create a query to find which students are from Universidad **"UCR"**.
 - Create an **HTML table** in section.php and **populate** it with the second query result.
-### 4- JQuery (30%)
+### 4- JQuery (30% : 5,5,10)
 
 - Create a **JQuery id selector** and select any of your previously created HTML elements (you can create one if you don't have any).
 - Alter the value (or any other **visible property**) of the previously selected element using JQuery.
@@ -97,6 +97,6 @@ You can use an inline function or call a function you defined in **logic.js**
 - Store the **associative array** created in **item #1** in the browser **local storage**, load it back and show it using **console.log()**.
 
 
-### 7-  AJAX (25 points)
+### 7-  AJAX (15 points)
 - Using **axios.js** (provided in framework folder), **AJAX** or any other similar library/method fetch
 data from <https://jsonplaceholder.typicode.com/todos/1> and show it using **console.log()**.
